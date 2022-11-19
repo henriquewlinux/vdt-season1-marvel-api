@@ -1,0 +1,8 @@
+{
+"character":{
+  "name": "FoneMaster",
+  "alias": "Professor Fone",
+  "team": ["x-men", "illuminatis"],
+  "active": true
+}
+}
